@@ -20,6 +20,8 @@ Summary of Syllabus
 
 ### Logistics
 
+Seminars will be from HH:MM to HH:MM in the US Pacific time zone.
+
 TAs, admin, roles and contact info
 
 ## Syllabus
@@ -27,12 +29,28 @@ TAs, admin, roles and contact info
 ### Part 1: Mathematical Foundations
 
 #### Week 1
+Introduction to Dynamical Systems; attention will be paid to continuous time, discrete time and event based models. For simplicity only linear models will be considered initially. A sample system for which the event time, discrete time and continuous time representations are all relevant will be considered.
+
+[future link to md page]
 
 #### Week 2
 
+Extension of the mathematical notation to nonlinear dynamical systems, attenion will be shifted to inputs controlled by 2 players and outputs representing players goals. Dynamic strategies, optimal control and the relationship between reinforcement learning and dynamic games will be introduced. 
+
+[future link to md page]
+
 #### Week 3
 
+Introduce the concept of the configuration space. The dynamic games formalism is extended to include a generalized statespace which is an arbitrary data structure and variations with many players as well as multiple mechanisms for transforming the system state.
+
+[future link to md page]
+ 
 #### Week 4
+
+Introduce potential functions, their differential under admissible action sets and the notion of *better response* dynamics. Discuss how gradient descent relates to dynamic optimization and how this relates to games roles as sense-making tools through the lens of estimation theory.
+
+[future link to md page]
+
 
 ### Part 2: Computational Methods
 
@@ -85,13 +103,13 @@ Team project goals and scoping deliverable
 
 [future link to md file]
 
-### Assigment 4
+### Assignment 4
 
 Team project model and model preoperties deliverable
 
 [future link to md file]
 
-### Assigment 5
+### Assignment 5
 
 Team project final deliverable: simulation results and analysis, conclusions and next steps
 
