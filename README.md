@@ -16,7 +16,7 @@ Depending on what field you come from, mathematical notation varies. My course m
 
 ### Topics to be covered
 
-The course has three major components: mathematical foundations, computational methods and applications. Mathematical foundations will focus on dynamic games as dynamical systems where the inputs are controlled by strategic agents with their own beliefs, preferences, etc. 
+The course has three major components: mathematical foundations, computational methods and applications. Mathematical foundations will focus on dynamic games as dynamical systems where the inputs are controlled by strategic agents with their own beliefs, preferences, etc. Computational methods will include a survey of techniques and associated best practices with a focus on design of and decision making in real world systems. The application component will make use of the learnings in the prior two components to explore some real world systems.
 
 ### Logistics
 
