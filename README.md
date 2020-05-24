@@ -26,7 +26,11 @@ TAs, admin, roles and contact info
 
 ## Syllabus
 
+Sessions will be 2 hours. All sessions will include some lecture component. Some will include presentations from guest lecturers and most will include time for discussions.
+
 ### Part 1: Mathematical Foundations
+
+[future link to folder in repo]
 
 #### Week 1
 Introduction to Dynamical Systems; attention will be paid to continuous time, discrete time and event based models. For simplicity only linear models will be considered initially. A sample system for which the event time, discrete time and continuous time representations are all relevant will be considered.
@@ -54,15 +58,35 @@ Introduce potential functions, their differential under admissible action sets a
 
 ### Part 2: Computational Methods
 
+[future link to folder in repo]
+
 #### Week 5
+
+Scoping models for computation methods Attention will be paid to seperation of temporal and spatial scales. Discussions will include mapping actors, mechanisms, metrics (KPIs) and exogenous processes. The goal is to produce models which are useful to some decision making (design or intervention) and as simple as possible but no simpler.
+
+[future link to md page]
 
 #### Week 6
 
+Review a range of methods with relative strengths and weakness as well as addressing the complementary roles of models and data. System Dynamics, Agent Based Modeling, networked models and multiscale models will be reviewed. Various modeling software will referenced by this course will primarily leverage tools in the scientific python ecosystem.
+
+[future link to md page]
+
 #### Week 7
+
+Highlight the concept of observability, and apply it to introduce state estimation and system identification. Explore in more details the roles of data and models in forecasting including a variety of techniques for evaluating designs and interventions in modeled systems, including sensitivity of results to the model's assumptions.
+
+[future link to md page]
 
 #### Week 8
 
+Applying computational methods for design and intervention. Computational models are tools for doing computational thought experiments; session will focus on building test grids, running many experiments, scoring metrics and the practice of translating experimental data into concrete decisions while still respecting and documenting uncertainty around the expected outcome. 
+
+[future link to md page]
+
 ### Part 3: Applications
+
+[future link to folder in repo]
 
 #### Week 9
 
@@ -78,11 +102,17 @@ Live stream event for presenting projects.
 
 ## Assignments
 
+Assignments should be submitted via pull request to this repo. All assignments (except 0) may be done as a team, each team will have a folder in the assigments directory where they can submit markdown, python code and jupyter notebooks.
+
+[future link to folder in repo]
+
 ### Assignment 0
 
-Read Section 1 (pages 3-72) **Foundations** of *Engineering a Safer World* by Nancy Leveson 
+Read Section 1 (pages 3-72) *Foundations* of **Engineering a Safer World** by Nancy Leveson 
 
 Further reading in this text is recommended but not required. The purpose of this assignment is to ensure we're thinking about the role models play in engineered systems, and how those models effects the sociotechnical systems composed of those engineered systems, humans and other exogenous factors.
+
+Deliverable: 500 word essay describing an aspects of this reading reasonates with you, that you found suprising or identify a major point you disagree with; explain why. Alternatively, provide any thoughtful reflection on the material that you feel merits the attention of others.
 
 ### Assignment 1
 
