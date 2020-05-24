@@ -16,13 +16,15 @@ Depending on what field you come from, mathematical notation varies. My course m
 
 ### Topics to be covered
 
-Summary of Syllabus
+The course has three major components: mathematical foundations, computational methods and applications. Mathematical foundations will focus on dynamic games as dynamical systems where the inputs are controlled by strategic agents with their own beliefs, preferences, etc. 
 
 ### Logistics
 
 Seminars will be from HH:MM to HH:MM in the US Pacific time zone.
 
 TAs, admin, roles and contact info
+
+there will be no grades but attendees will participate in teams which will be expected to push their assignments and projects to a public github repo.
 
 ## Syllabus
 
@@ -45,7 +47,7 @@ Extension of the mathematical notation to nonlinear dynamical systems, attenion 
 
 #### Week 3
 
-Introduce the concept of the configuration space. The dynamic games formalism is extended to include a generalized statespace which is an arbitrary data structure and variations with many players as well as multiple mechanisms for transforming the system state.
+Introduce the concept of the configuration space. The dynamic games formalism is extended to include a generalized statespace which is an arbitrary data structure and variations with many players as well as multiple mechanisms for transforming the system state. Agent strategies will be framed path planning alogrithms.
 
 [future link to md page]
  
@@ -86,15 +88,25 @@ Applying computational methods for design and intervention. Computational models
 
 ### Part 3: Applications
 
+Lecture components in part 3 will be noticibly shorter focusing on examples from active projects; guest presentations and discussions will be prioritized as teams are focusing on their projects. Reference examples and guest speakers will be announced closer to the dates of these seminars.
+
 [future link to folder in repo]
 
 #### Week 9
 
+Reference Example[tbd]  with Focus on the scoping phase. 
+
 #### Week 10
+
+Reference Example[tbd]  with Focus on the mathematical modeling phase. 
 
 #### Week 11
 
+Reference Example[tbd]  with Focus on the writing and running computational experiments phase. 
+
 #### Week 12
+
+Reference Example[tbd]  with Focus on analyzing data and making decisions phase. 
 
 ### Finale: Project Showcase
 
