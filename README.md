@@ -41,7 +41,7 @@ Introduction to Dynamical Systems; attention will be paid to continuous time, di
 
 #### Week 2
 
-Extension of the mathematical notation to nonlinear dynamical systems, attenion will be shifted to inputs controlled by 2 players and outputs representing players goals. Dynamic strategies, optimal control and the relationship between reinforcement learning and dynamic games will be introduced. 
+Extension of the mathematical notation to nonlinear dynamical systems, attention will be shifted to inputs controlled by 2 players and outputs representing players goals. Dynamic strategies, optimal control and the relationship between reinforcement learning and dynamic games will be introduced. 
 
 [future link to md page]
 
@@ -160,3 +160,46 @@ Team project final deliverable: simulation results and analysis, conclusions and
 ## Further Reading
 
 Summary and links for Relevent Papers, Textbooks, and Projects.
+
+(* indicates more advanced material, ** indicates very advanced material)
+
+### Weeks 1 and 2
+
+<a id="day_1994">[Day (1994)]</a>
+Day, Richard H.
+_Complex Economic Dynamics_.
+MIT Press, 1994.
+
+<a id="gulick_1992">[Gulick (1992)]</a>
+Gulick, D.
+_Encounters with Chaos_.
+McGraw-Hill, 1992.
+
+<a id="aoki_1996">[Aoki (1996)]</a>
+Aoki, Masanao.
+_New Approaches to Macroeconomic Modeling_.
+Cambridge UP, 1992.
+
+**<a id="katok_hasselblatt_1995">[Katok and Hasselblatt (1995)]</a>
+Katok, A. and B. Hasselblatt.
+_Introduction to the Modern Theory of Dynamical Systems_.
+Cambridge UP, 1995.
+
+### Weeks 3 and 4
+
+*<a id="bertsekas_2007">[Bertsekas (2007)]</a>
+Bertsekas, Dimitri P.
+_Dynamic Programming and Optimal Control, vols 1 & 2_.
+Athena Scientific, 2005, 2007.
+
+### Weeks 5 and 6
+
+<a id="levy_et_al_2000">[Levy _et al_ (2000)]</a>
+Levy, M., H. Levy and S. Solomon.
+_Microscopic Simulation of Financial Markets_.
+Academic Press, 2000.
+
+<a id="dreo_et_al_2006">[Dreo _et al_ (2006)]</a>
+Dreo, J., A. Pétrowski, P. Siarry and E. Taillard.
+_Metaheuristics for Hard Optimization_.
+Springer, 2006.
