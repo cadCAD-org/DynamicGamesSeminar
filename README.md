@@ -8,9 +8,9 @@ short overview of the goals of this seminar
 
 ### Prerequisites
 
-This course assumes working knowledge of multivariate calculus, linear algebra and optimization. More advanced mathematical topics will build on these areas. Adiitionally, working knowledge of algorithm game theory is assumed. Approaches presented in the course are specific to state based games with many players, many mechanisms and a statespace which includes arbitrary data structures.
+This course assumes working knowledge of multivariate calculus, linear algebra and optimization. More advanced mathematical topics will build on these areas. Additionally, a working knowledge of algorithm game theory is assumed. Approaches presented in the course are specific to state based games with many players, many mechanisms and a statespace which includes arbitrary data structures.
 
-Depending on what field you come from, mathematical notation varies. My course material will leverage notation similar to that of Stephen Boyd at Stanford. I recommend his lecture notes on linear systems for getting acquainted with the notion.
+Depending on what field you come from, mathematical notation varies. My course material will leverage notation similar to that of Stephen Boyd at Stanford. I recommend his lecture notes on linear systems for getting acquainted with the notation.
 
 [todo: add links to prequisites]
 
@@ -24,7 +24,7 @@ Seminars will be from HH:MM to HH:MM in the US Pacific time zone.
 
 TAs, admin, roles and contact info
 
-there will be no grades but attendees will participate in teams which will be expected to push their assignments and projects to a public github repo.
+There will be no grades but attendees will participate in teams which will be expected to push their assignments and projects to a public github repo.
 
 ## Syllabus
 
@@ -41,7 +41,7 @@ Introduction to Dynamical Systems; attention will be paid to continuous time, di
 
 #### Week 2
 
-Extension of the mathematical notation to nonlinear dynamical systems, attention will be shifted to inputs controlled by 2 players and outputs representing players goals. Dynamic strategies, optimal control and the relationship between reinforcement learning and dynamic games will be introduced. 
+Extension of the mathematical notation to nonlinear dynamical systems, attenion will be shifted to inputs controlled by two players and outputs representing players goals. Dynamic strategies, optimal control and the relationship between reinforcement learning and dynamic games will be introduced. 
 
 [future link to md page]
 
@@ -203,4 +203,3 @@ Springer, 2006.
 Levy, M., H. Levy and S. Solomon.
 _Microscopic Simulation of Financial Markets_.
 Academic Press, 2000.
-
