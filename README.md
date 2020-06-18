@@ -4,7 +4,8 @@
 
 ### Motivation
 
-short overview of the goals of this seminar
+short overview of the goals of this seminar  
+and knowledge application areas (including crypto/TokenEnginering), alternatively own section  
 
 ### Prerequisites
 
@@ -18,11 +19,16 @@ Depending on what field you come from, mathematical notation varies. My course m
 
 The course has three major components: mathematical foundations, computational methods and applications. Mathematical foundations will focus on dynamic games as dynamical systems where the inputs are controlled by strategic agents with their own beliefs, preferences, etc. Computational methods will include a survey of techniques and associated best practices with a focus on design of and decision making in real world systems. The application component will make use of the learnings in the prior two components to explore some real world systems.
 
+### Teachers and TAs
+Name A, title, bio, link  
+Name A, title, bio, link  
+Name A, title, bio, link  
+
 ### Logistics
 
-Seminars will be from HH:MM to HH:MM in the US Pacific time zone.
-
-TAs, admin, roles and contact info
+The seminar will start on (date) and will run over 12 weeks with weekly session from HH:MM to HH:MM in the US Pacific time zone.  
+All information on logistics and application here: (link)  
+__Application deadline:__ (date)  
 
 There will be no grades but attendees will participate in teams which will be expected to push their assignments and projects to a public github repo.
 
